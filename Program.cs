@@ -39,7 +39,7 @@ while (playagain)
 
     string reStart = Console.ReadLine();
 
-    if (reStart == "quit")
+    if (reStart == "end")
     {
 
 
